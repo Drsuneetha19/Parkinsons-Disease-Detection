@@ -1,6 +1,3 @@
-# Parkinsons-Disease-Detection
-Title: Parkinsons Disease Data Set
-Abstract: Oxford Parkinson's Disease Detection Dataset
 
 # Parkinson's Disease Detection Using Machine Learning
 
